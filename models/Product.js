@@ -36,8 +36,11 @@ Product.init(
     },
     category_id: {
       type: DataTypes.INTEGER,
-      //TODO: needs to reference category model's id
-    }
+      references: {
+        model: "category",
+        key: "id",
+      },
+    },
   },
   {
     sequelize,
