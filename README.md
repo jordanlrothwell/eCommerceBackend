@@ -69,6 +69,8 @@ Link to the full code [here](https://github.com/jordanlrothwell/eCommerceBackend
 
 Here's the setup/testing in action:
 
+![demonstration](https://github.com/jordanlrothwell/eCommerceBackend/blob/main/images/demonstration.gif?raw=true)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
